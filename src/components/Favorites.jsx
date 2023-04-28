@@ -14,6 +14,7 @@ const Favorites = ({ myFavorites }) => {
     const handleFilter = (evento) => {
         dispatch(filterCards(evento.target.value))
     }
+    
     return (
         <div>
             <div>

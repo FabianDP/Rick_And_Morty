@@ -24,7 +24,7 @@ function Card({ id, name, status, species, gender, origin, onClose, image,addFav
       }
    }
 
-
+ 
    return (
       <div>
          {

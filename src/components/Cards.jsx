@@ -19,3 +19,4 @@ export default function Cards({characters,onClose}) {
 }
    </div>;
 }
+
